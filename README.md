@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">  
-Backend Developer | DevOps Enginner
+Backend Developer -|- DevOps Engineer
 </h1>
 <p align="center">
 
