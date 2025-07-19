@@ -16,7 +16,7 @@ Backend Developer -|- DevOps Engineer
 - 🚧 APIs, Websockets, gRPC/REST interfaces, stateful backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting, Observability, and Notifications
-- 🧠 Ai & Intelligent Systems: Frontend/Backend Hosting (on/off premise), LLMs, RAG, MCP, Agents, and other rituals
+- 🧠 Ai & Intelligent Systems: Frontend/Backend Hosting, LLMs, RAG, MCP, Agents, and other rituals
 
 ---
 
