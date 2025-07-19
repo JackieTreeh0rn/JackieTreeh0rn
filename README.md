@@ -2,9 +2,7 @@
 <h1 align="center">  
 Backend Developer -|- DevOps Engineer
 </h1>
-<p align="center">
 
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=CCCCCC&background=00000000&center=true&vCenter=true&width=600&height=35&lines=%E2%96%88+automating+the+void;%E2%96%88+orchestrating+chaos&cursor=_&repeat=true" alt="typing animation" />
 </p>
@@ -15,10 +13,10 @@ Backend Developer -|- DevOps Engineer
 - 🌪️ Clusters, Containers, and Microservices: Bare-metal, Docker Swarm, Kubernetes
 - ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript  
 - 🔁 Automation Wrangler: infrastructure & pipelines
-- 🚧 APIs, Websockets, gRPC/REST interfaces, stateful backends, and other rituals
+- 🚧 APIs, Websockets, gRPC/REST interfaces, stateful backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting, Observability, and Notifications
-- 🧠 Ai & Intelligent Systems: Frontend/Backend Hosting (on/off premise), LLMs, RAG, MCP, Agentics
+- 🧠 Ai & Intelligent Systems: Frontend/Backend Hosting (on/off premise), LLMs, RAG, MCP, Agents, and other rituals
 
 ---
 
