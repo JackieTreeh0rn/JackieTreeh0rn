@@ -12,11 +12,11 @@ Backend Developer -|- DevOps Engineer
 - 🧱 Backend Developer, DevOps Engineer, Infrastructure Architect  
 - 🌪️ Clusters, Containers, and Microservices: Bare-metal, Docker Swarm, Kubernetes
 - ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript  
-- 🔁 Automation Wranglimg: infrastructure & pipelines
+- 🔁 Automation Wrangling: infrastructure, CI/CD pipelines
 - 🚧 APIs, Websockets, gRPC/REST, stateful backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting, Observability, Notifications
-- 🧠 Ai & Intelligent Systems: Hosting, LLMs, RAG, MCP, Agents, and other rituals
+- 🧠 Ai & Intelligent Systems: LLM Hosting, RAG, MCP, Agents, and other rituals
 
 ---
 
