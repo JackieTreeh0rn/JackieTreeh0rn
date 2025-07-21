@@ -52,11 +52,10 @@ Backend Developer -|- DevOps Engineer
 #### 🧬 Infrastructure as Code & GitOps
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/K8s%20RBAC-326CE5?style=for-the-badge)
 
 #### 🚀 CI/CD & Automation  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge)
 
 #### 🔍 Observability / Logs
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
