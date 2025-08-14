@@ -66,19 +66,19 @@ Backend Developer -|- DevOps Engineer
 
 <br>
 
-### 🚀 CI/CD & Automation
+### 🚀 CI/CD & Automation, Infrastructure Workflows
 
-<strong>Workflows & Quality Gates</strong><br>
+Workflows & Quality Gates <br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-<strong>Build & Deploy Pipelines</strong><br>
+Build & Deploy Pipelines <br>
 ![Docker Build](https://img.shields.io/badge/Docker%20Build-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![Release Automation](https://img.shields.io/badge/Release%20Automation-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
-<strong>Security & Compliance</strong><br>
+Security & Compliance <br>
 ![SBOM](https://img.shields.io/badge/SBOM-FF6B35?style=for-the-badge&logo=npm&logoColor=white)
 ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-FF0000?style=for-the-badge&logo=dependabot&logoColor=white)
 
@@ -86,8 +86,7 @@ Backend Developer -|- DevOps Engineer
 
 
 ### ☁️ Cloud Platforms
-From managed clusters to raw compute
-
+From managed clusters to raw compute <br>
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -100,8 +99,7 @@ From managed clusters to raw compute
 <br>
 
 ### 🧠 Ai & Intelligent Systems
-Ai at the edge — language models, inference, RAG, agentic boosters — plugging into infrastructure workflows
-
+Ai at the edge — language models, inference, RAG, agentic boosters <br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)
