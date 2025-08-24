@@ -13,7 +13,7 @@ Backend Developer -|- DevOps Engineer
 - 🌪️ Clusters, Containers, and Microservices: Bare-metal, Docker Swarm, Kubernetes
 - ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript
 - 🔁 Automation Wrangling: IaC, CI/CD pipelines
-- 🚧 APIs, Websockets, gRPC/REST, stateful backends
+- 🚧 APIs, Websockets, GraphQL|REST, stateful backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting, Observability, Notifications
 - 🧠 Ai & Intelligent Systems: LLM Hosting, RAG, MCP, Agents, and other rituals
