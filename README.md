@@ -64,6 +64,7 @@ Backend Developer -|- DevOps Engineer
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 
@@ -90,6 +91,7 @@ Build & Deploy Pipelines <br>
 ![Release Automation](https://img.shields.io/badge/Release%20Automation-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
 Security & Compliance <br>
+![Fossa Badge](https://img.shields.io/badge/Fossa-289E6D?logo=fossa&logoColor=fff&style=for-the-badge)
 ![SBOM](https://img.shields.io/badge/SBOM-FF6B35?style=for-the-badge&logo=npm&logoColor=white)
 ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-FF0000?style=for-the-badge&logo=dependabot&logoColor=white)
 
@@ -107,6 +109,7 @@ From managed clusters to raw compute <br>
 ![Replicate](https://img.shields.io/badge/Replicate-101010?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjczIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMDB2LTIuMzhjMC00Ny40NSA1Ny40OCA5LjcxIDk1Ljg5LTE0LjAyQzEzNC40OSA1NC45NiAxMTEuNzYgMjcuMTIgMTE1LjgxIDBjMjUuMS0yLjMyIDUwLjIxIDQ2LjI3IDcwLjYyIDY2LjY4IDU3LjQ4LTQuMTQgODAuMjEgMjIuNCA4Ni4yMiAzMy4zMi01MC4yMSA4LjI6LTg1LjkgNDYuNC0xMDIuODggNzUuMzN6IiBmaWxsPSIjMDBmZjNjIi8+PC9zdmc+&logoColor=white)
 ![Vast.ai](https://img.shields.io/badge/Vast.ai-5A67D8?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RunPod](https://img.shields.io/badge/RunPod.io-663399?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare Workers Badge](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=fff&style=for-the-badge)
 
 <br>
 
