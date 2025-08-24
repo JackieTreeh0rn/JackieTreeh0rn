@@ -79,6 +79,7 @@ Backend Developer -|- DevOps Engineer
 ### 🚀 CI/CD & Automation, Infrastructure Workflows
 
 Workflows & Quality Gates <br>
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
